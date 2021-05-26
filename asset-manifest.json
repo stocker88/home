@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.cc549534.chunk.css",
-    "main.js": "/static/js/main.5fc11a18.chunk.js",
-    "main.js.map": "/static/js/main.5fc11a18.chunk.js.map",
+    "main.js": "/static/js/main.74d29825.chunk.js",
+    "main.js.map": "/static/js/main.74d29825.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
     "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
-    "static/js/2.35e20232.chunk.js": "/static/js/2.35e20232.chunk.js",
-    "static/js/2.35e20232.chunk.js.map": "/static/js/2.35e20232.chunk.js.map",
+    "static/js/2.454e3d4c.chunk.js": "/static/js/2.454e3d4c.chunk.js",
+    "static/js/2.454e3d4c.chunk.js.map": "/static/js/2.454e3d4c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5610513d61b1f2f134cee9c97ac8a3e6.js": "/precache-manifest.5610513d61b1f2f134cee9c97ac8a3e6.js",
+    "precache-manifest.dcab156ca2358deb27bac656e6986c23.js": "/precache-manifest.dcab156ca2358deb27bac656e6986c23.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cc549534.chunk.css.map": "/static/css/main.cc549534.chunk.css.map",
-    "static/js/2.35e20232.chunk.js.LICENSE.txt": "/static/js/2.35e20232.chunk.js.LICENSE.txt",
+    "static/js/2.454e3d4c.chunk.js.LICENSE.txt": "/static/js/2.454e3d4c.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/cta-illustration.3ce357e7.svg",
     "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -19,15 +19,13 @@
     "static/media/feature-tile-icon-04.svg": "/static/media/feature-tile-icon-04.836acd10.svg",
     "static/media/feature-tile-icon-05.svg": "/static/media/feature-tile-icon-05.fa9ba00b.svg",
     "static/media/feature-tile-icon-06.svg": "/static/media/feature-tile-icon-06.6a177696.svg",
-    "static/media/features-split-image-01.png": "/static/media/features-split-image-01.cf853b80.png",
-    "static/media/features-split-image-02.png": "/static/media/features-split-image-02.48006761.png",
-    "static/media/features-split-image-03.png": "/static/media/features-split-image-03.e6b5de8e.png",
+    "static/media/stock_list.png": "/static/media/stock_list.ff243efe.png",
     "static/media/stocker.png": "/static/media/stocker.86ddba37.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b8b9f84b.js",
-    "static/js/2.35e20232.chunk.js",
+    "static/js/2.454e3d4c.chunk.js",
     "static/css/main.cc549534.chunk.css",
-    "static/js/main.5fc11a18.chunk.js"
+    "static/js/main.74d29825.chunk.js"
   ]
 }
