@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d3eeebfe51be74a8e205fc324769d31",
+    "revision": "089a0792394cb21280e10f8567f8f941",
     "url": "/index.html"
   },
   {
-    "revision": "92945ecc1c216cffa8bc",
-    "url": "/static/css/main.e5147d79.chunk.css"
+    "revision": "0018d23c6d5fb185cb7a",
+    "url": "/static/css/main.c99b0462.chunk.css"
   },
   {
-    "revision": "db3467c9fde4893c2874",
-    "url": "/static/js/2.7932c14e.chunk.js"
+    "revision": "dfbd0f5ff215790e51d2",
+    "url": "/static/js/2.60d6583d.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/static/js/2.7932c14e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.60d6583d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92945ecc1c216cffa8bc",
-    "url": "/static/js/main.c1f4780a.chunk.js"
+    "revision": "0018d23c6d5fb185cb7a",
+    "url": "/static/js/main.ef03069f.chunk.js"
   },
   {
     "revision": "c307e69827cf23a9bfac",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "402ec6ddb0e342cc8e7e53d80095f8f9",
     "url": "/static/media/analytics.402ec6dd.png"
+  },
+  {
+    "revision": "8986ca8da052d53481a8e1e1aa4ca9cb",
+    "url": "/static/media/attribution.8986ca8d.jpg"
   },
   {
     "revision": "3ce357e71a836a86691b904396a8955c",
@@ -56,8 +60,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/feature-tile-icon-06.6a177696.svg"
   },
   {
+    "revision": "03dbdd62ed9b6260c6d6ed1fe7d84a39",
+    "url": "/static/media/formulaAllocation.03dbdd62.png"
+  },
+  {
+    "revision": "2cd4279b47621c8f24fbf3ef961efe89",
+    "url": "/static/media/formulaInteraction.2cd4279b.png"
+  },
+  {
+    "revision": "32529801920a8b37007c21c3534e0d00",
+    "url": "/static/media/formulaSelection.32529801.png"
+  },
+  {
     "revision": "7aa0c2b8a995f1896186d2c8ff787a9b",
     "url": "/static/media/main.7aa0c2b8.png"
+  },
+  {
+    "revision": "1568665d42c0a95c367b803bac208496",
+    "url": "/static/media/math.1568665d.jpg"
+  },
+  {
+    "revision": "6f21898d6bfb5279e0f458f62d082d90",
+    "url": "/static/media/math2.6f21898d.jpg"
   },
   {
     "revision": "122d628ce7a1f10a15f03ad78f882a97",
@@ -70,5 +94,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "86ddba37e34c022ced6577a1d05349cd",
     "url": "/static/media/stocker.86ddba37.png"
+  },
+  {
+    "revision": "a8a2f10afc3d89484e623887539992a3",
+    "url": "/static/media/sun.a8a2f10a.jpg"
   }
 ]);
