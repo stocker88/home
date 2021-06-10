@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c99b0462.chunk.css",
-    "main.js": "/static/js/main.aa75aa8a.chunk.js",
-    "main.js.map": "/static/js/main.aa75aa8a.chunk.js.map",
+    "main.js": "/static/js/main.0221dbf4.chunk.js",
+    "main.js.map": "/static/js/main.0221dbf4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
     "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
     "static/js/2.ebda304a.chunk.js": "/static/js/2.ebda304a.chunk.js",
     "static/js/2.ebda304a.chunk.js.map": "/static/js/2.ebda304a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c3dc3f28e0e1cd792d988c32a6e2cd6b.js": "/precache-manifest.c3dc3f28e0e1cd792d988c32a6e2cd6b.js",
+    "precache-manifest.3e0877be3097f2d142590d3ef6ed35a9.js": "/precache-manifest.3e0877be3097f2d142590d3ef6ed35a9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c99b0462.chunk.css.map": "/static/css/main.c99b0462.chunk.css.map",
     "static/js/2.ebda304a.chunk.js.LICENSE.txt": "/static/js/2.ebda304a.chunk.js.LICENSE.txt",
@@ -25,7 +25,7 @@
     "static/media/formulaInteraction.png": "/static/media/formulaInteraction.2cd4279b.png",
     "static/media/formulaSelection.png": "/static/media/formulaSelection.32529801.png",
     "static/media/main.png": "/static/media/main.7aa0c2b8.png",
-    "static/media/math.jpg": "/static/media/math.1568665d.jpg",
+    "static/media/math.jpg": "/static/media/math.0ae0d5f4.jpg",
     "static/media/screening.png": "/static/media/screening.122d628c.png",
     "static/media/social.png": "/static/media/social.397d0cb3.png",
     "static/media/stocker.png": "/static/media/stocker.86ddba37.png",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.b8b9f84b.js",
     "static/js/2.ebda304a.chunk.js",
     "static/css/main.c99b0462.chunk.css",
-    "static/js/main.aa75aa8a.chunk.js"
+    "static/js/main.0221dbf4.chunk.js"
   ]
 }
