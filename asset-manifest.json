@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.c99b0462.chunk.css",
-    "main.js": "/static/js/main.95567c64.chunk.js",
-    "main.js.map": "/static/js/main.95567c64.chunk.js.map",
+    "main.js": "/static/js/main.51b91244.chunk.js",
+    "main.js.map": "/static/js/main.51b91244.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
     "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
-    "static/js/2.0501c13b.chunk.js": "/static/js/2.0501c13b.chunk.js",
-    "static/js/2.0501c13b.chunk.js.map": "/static/js/2.0501c13b.chunk.js.map",
+    "static/js/2.5a370abe.chunk.js": "/static/js/2.5a370abe.chunk.js",
+    "static/js/2.5a370abe.chunk.js.map": "/static/js/2.5a370abe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.37527e5161fb189d4ab7e0f1d0ae3a83.js": "/precache-manifest.37527e5161fb189d4ab7e0f1d0ae3a83.js",
+    "precache-manifest.c9464836f518a23d3996c98930439459.js": "/precache-manifest.c9464836f518a23d3996c98930439459.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c99b0462.chunk.css.map": "/static/css/main.c99b0462.chunk.css.map",
-    "static/js/2.0501c13b.chunk.js.LICENSE.txt": "/static/js/2.0501c13b.chunk.js.LICENSE.txt",
+    "static/js/2.5a370abe.chunk.js.LICENSE.txt": "/static/js/2.5a370abe.chunk.js.LICENSE.txt",
     "static/media/analytics.png": "/static/media/analytics.402ec6dd.png",
     "static/media/attribution.jpg": "/static/media/attribution.8986ca8d.jpg",
     "static/media/style.scss": "/static/media/cta-illustration.3ce357e7.svg",
@@ -21,9 +21,6 @@
     "static/media/feature-tile-icon-04.svg": "/static/media/feature-tile-icon-04.836acd10.svg",
     "static/media/feature-tile-icon-05.svg": "/static/media/feature-tile-icon-05.fa9ba00b.svg",
     "static/media/feature-tile-icon-06.svg": "/static/media/feature-tile-icon-06.6a177696.svg",
-    "static/media/formulaAllocation.png": "/static/media/formulaAllocation.03dbdd62.png",
-    "static/media/formulaInteraction.png": "/static/media/formulaInteraction.2cd4279b.png",
-    "static/media/formulaSelection.png": "/static/media/formulaSelection.32529801.png",
     "static/media/main.png": "/static/media/main.7aa0c2b8.png",
     "static/media/math.jpg": "/static/media/math.0ae0d5f4.jpg",
     "static/media/screening.png": "/static/media/screening.122d628c.png",
@@ -33,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b8b9f84b.js",
-    "static/js/2.0501c13b.chunk.js",
+    "static/js/2.5a370abe.chunk.js",
     "static/css/main.c99b0462.chunk.css",
-    "static/js/main.95567c64.chunk.js"
+    "static/js/main.51b91244.chunk.js"
   ]
 }
