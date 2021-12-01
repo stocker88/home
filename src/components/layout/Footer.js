@@ -44,7 +44,14 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
-            <div className="footer-copyright" style={{color:"white"}}>Made by Stocker, for you.</div>
+            <div className="footer-copyright" style={{color:"white"}}>
+                        <a href="https:www.hellostocker.com/#/privacy_policy" style={{color:"white"}}> Privacy Policy </a>
+                        <br></br>
+                        <br></br>
+                        Made by Stocker, for you.
+            <br></br>
+            </div>
+            <br></br>
           </div>
         </div>
       </div>

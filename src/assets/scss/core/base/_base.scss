@@ -9,7 +9,7 @@ html {
 }
 
 body {
-	background: #01CAFF !important;; /* Fallback for when there is no custom background color defined. */
+	background: get-color(cyan, 1) !important;; /* background for website Fallback for when there is no custom background color defined. */
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
 }

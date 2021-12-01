@@ -53,10 +53,20 @@ const FeaturesTiles = ({
     <section
       {...props}
       className={outerClasses}
+      id="overview"
     >
       <div className="container">
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
+          <br></br>
+              <center>
+                    <Image
+                        src={require('./../../assets/images/main.png')}
+                        alt="Features split 03"
+                        width={700}
+                        height={400} />
+               </center>
+<br></br><br></br>
           <div className={tilesClasses}>
 
             <div className="tiles-item reveal-from-bottom">
@@ -72,7 +82,27 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8" style={{color:"grey", fontWeight:"200", fontSize:"20px"}}>
-                    Follow CEOs and Access company 360 overviews with Earnings, Balance Sheet, Revenues and more
+                  Find the hottest investment pick: Leverage our Social Sentiment and Financial Screeners, deep dive into our social and financial metrics
+                    </h4>
+                </div>
+              </div>
+            </div>
+
+            <div className="tiles-item reveal-from-bottom" data-reveal-delay="200">
+              <div className="tiles-item-inner">
+                <div className="features-tiles-item-header">
+                  <div className="features-tiles-item-image mb-16">
+                    <Image
+                      src={require('./../../assets/images/feature-tile-icon-05.svg')}
+                      alt="Features tile icon 05"
+                      width={iconSize}
+                      height={iconSize} />
+                  </div>
+                </div>
+                <div className="features-tiles-item-content">
+                  <h4 className="mt-0 mb-8" style={{color:"grey", fontWeight:"200", fontSize:"20px"}}>
+                    Join the community and follow your friends: share and exchange news, insights, and trading activity
+
                     </h4>
                 </div>
               </div>
@@ -91,84 +121,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8" style={{color:"grey", fontWeight:"200", fontSize:"20px"}}>
-                    Leverage our stock screener: sort and filter on Social and Financial Metrics to target new investment ideas
-                    </h4>
-                </div>
-              </div>
-            </div>
-
-
-            <div className="tiles-item reveal-from-bottom" data-reveal-delay="200">
-              <div className="tiles-item-inner">
-                <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require('./../../assets/images/feature-tile-icon-05.svg')}
-                      alt="Features tile icon 05"
-                      width={iconSize}
-                      height={iconSize} />
-                  </div>
-                </div>
-                <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8" style={{color:"grey", fontWeight:"200", fontSize:"20px"}}>
-                    Commission free trading
-                    </h4>
-                </div>
-              </div>
-            </div>
-
-            <div className="tiles-item reveal-from-bottom" data-reveal-delay="400">
-              <div className="tiles-item-inner">
-                <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require('./../../assets/images/feature-tile-icon-03.svg')}
-                      alt="Features tile icon 03"
-                      width={iconSize}
-                      height={iconSize} />
-                  </div>
-                </div>
-                <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8" style={{color:"grey", fontWeight:"200", fontSize:"20px"}}>
-                    Interact with the community through our social platform: exchange and monetize trade ideas
-                    </h4>
-                </div>
-              </div>
-            </div>
-
-            <div className="tiles-item reveal-from-bottom">
-              <div className="tiles-item-inner">
-                <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require('./../../assets/images/feature-tile-icon-04.svg')}
-                      alt="Features tile icon 04"
-                      width={iconSize}
-                      height={iconSize} />
-                  </div>
-                </div>
-                <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8" style={{color:"grey", fontWeight:"200", fontSize:"20px"}}>
-                    Educate yourself with our investment tips, educate the community and help us empower the people!
-                    </h4>
-                </div>
-              </div>
-            </div>
-
-            <div className="tiles-item reveal-from-bottom" data-reveal-delay="400">
-              <div className="tiles-item-inner">
-                <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require('./../../assets/images/feature-tile-icon-06.svg')}
-                      alt="Features tile icon 06"
-                      width={iconSize}
-                      height={iconSize} />
-                  </div>
-                </div>
-                <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8" style={{color:"grey", fontWeight:"200", fontSize:"20px"}}>
-                    Receive direct support from Investment Banking Traders and Machine Learning experts
+                     Don't miss on new opportunities': receive notifications on the hottest news and insights, incoming earning reports and most traded names
                     </h4>
                 </div>
               </div>

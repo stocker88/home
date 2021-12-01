@@ -10,14 +10,15 @@ class ContactForm extends Component {
     name: '',
     email: '',
     phoneNumber: '',
-    message: 'I would like to subscribe to the beta.',
+    message: 'Please send me the invite link for the beta version of Stocker.',
   }
 
 handleSubmit(e) {
     e.preventDefault()
     const { name, email, phoneNumber, message } = this.state
     let templateParams = {
-      from_name: email,
+      from_name: name,
+      from_email: email,
       to_name: 'aness.hussein.ali@gmail.com',
       phoneNumber: phoneNumber,
       message_html: message,
@@ -28,6 +29,7 @@ handleSubmit(e) {
        templateParams,
       'user_QuG1TIbvzRN8kheqkRwUr'
      )
+     window.alert('Thank you! We will be reaching out to you soon.')
      this.resetForm()
  }
 resetForm() {
@@ -46,19 +48,19 @@ render() {
       <>
           <Form onSubmit={this.handleSubmit.bind(this)} target="my_iframe" style={{alignitems:"right"}}>
           <ul>
-              <Label className="text-muted" style={{ color: "#01CAFF"  }}><b>Email</b></Label>
+              <Label className="text-muted" style={{ color: "white"  }}><b>Email</b></Label>
               <Input
                 type="email"
                 name="email"
                 value={this.state.email}
                 className="text-primary"
                 onChange={this.handleChange.bind(this, 'email')}
-                placeholder="Enter email"
+                placeholder="Email"
                 style={{ alignItems: "right", flex:1, width: '100%', padding: "8px" }}
               />
             </ul>
           <ul>
-              <Label className="text-muted" style={{ textAlign: 'center', color: "#01CAFF"  }}><b>Name</b></Label>
+              <Label className="text-muted" style={{ textAlign: 'center', color: "white"  }}><b>Name</b></Label>
               <Input
                 type="text"
                 name="name"
@@ -70,9 +72,9 @@ render() {
               />
             </ul>
           <ul>
-                <Label className="text-muted" style={{ textAlign: 'center', color: "#01CAFF" }}><b>Phone Number</b></Label>
+                <Label className="text-muted" style={{ textAlign: 'center', color: "white" }}><b>Phone Number</b></Label>
                 <Input
-                  type="number"
+                  type="text"
                   name="phoneNumber"
                   className="text-primary"
                   value={this.state.phoneNumber}
@@ -82,7 +84,7 @@ render() {
                 />
             </ul>
           <ul>
-              <Label className="text-muted" style={{ textAlign: 'center', color: "#01CAFF"  }}><b>Message</b></Label>
+              <Label className="text-muted" style={{ textAlign: 'center', color: "white"  }}><b>Message</b></Label>
               <Input
                 type="textarea"
                 name="message"
@@ -93,10 +95,12 @@ render() {
               />
               </ul>
           <ul>
+          <center>
           <Button color="cyan" variant="primary" type="submit">
               Submit
             </Button>
-            </ul>
+           </center>
+           </ul>
           </Form>
       </>
     )

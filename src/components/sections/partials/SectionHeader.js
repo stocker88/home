@@ -25,7 +25,6 @@ const SectionHeader = ({
 }) => {
 
   const classes = classNames(
-    'section-header',
     className
   );
 
@@ -38,7 +37,7 @@ const SectionHeader = ({
           {...props}
           className={classes}
         >
-          <div className="container-xs" >
+          <div className="container" >
             {children}
             {data.title &&
               <Component className={
@@ -46,7 +45,7 @@ const SectionHeader = ({
                   'mt-0',
                   data.paragraph ? 'mb-16' : 'mb-0',
                   'text-color-dark',
-                )} style={{fontSize:"40px", fontWeight: 'normal'}}>{data.title}</Component>
+                )} style={{fontSize:"min(32px,max(25px,2.5vw))", fontWeight: 'normal'}}>{data.title}</Component>
             }
             {data.paragraph &&
               <p className="m-0">{data.paragraph}</p>

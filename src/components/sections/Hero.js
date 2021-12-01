@@ -77,37 +77,31 @@ const Hero = ({
       <div className="container-sm">
         <div className={innerClasses}>
           <div className="hero-content">
+          <br></br>
+          <br></br>
             <Image
               src={require('./../../assets/images/stocker.png')}
               alt="Features split 01"
-              width={500}
+              width={600}
               height={50}
               />
             <div className="container-xs">
               <br></br>
-              <br></br>
               <p style={{ color: 'white', fontSize: "25px" }} className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="600">
-                The first social and commission free trading app
-                <br></br>that empowers people with cutting edge analytics
+                The first social app to find the next big investment
                 </p>
               <br></br>
               <div className="reveal-from-bottom" data-reveal-delay="1200">
                   <ButtonGroup>
-                    <Button color="dark" type="button" onClick={openModal}>
-                      <span className="btn-inner--icon mr-1">
+                    <Button color="primary" type="button" onClick={openModal}>
+                      <span className="btn-inner--icon mr-1" >
                         <i className="ni ni-cloud-download-95" />
                       </span>
-                      SUBSCRIBE TO BETA
+                      <p style={{fontFamily:"Arial"}}>SUBSCRIBE TO BETA</p>
                       </Button>
-                      <a href={`mailto:aness.hussein.ali@gmail.com,ulyanats@gmail.com`}>
-                    <Button size="lg" color="primary" >
-                      EMAIL US
-                      </Button>
-                      </a>
                   </ButtonGroup>
              </div>
             <div className="reveal-from-bottom" data-reveal-delay="1600">
-                          <br></br>
               </div>
             </div>
           </div>

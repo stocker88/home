@@ -8,13 +8,13 @@ import * as serviceWorker from './serviceWorker';
 
 //import './App.css';
 import './assets/scss/style.scss';
+import Routes from './Routes';
+import RoutesBlog from './RoutesBlog';
 
 const history = createBrowserHistory();
 
 ReactDOM.render(
-  <Router history={history}>
-    <App />
-  </Router>,
+    <Routes />,
   document.getElementById('root')
 );
 

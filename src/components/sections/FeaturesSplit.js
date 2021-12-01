@@ -1,8 +1,13 @@
 import React from 'react';
 import classNames from 'classnames';
 import { SectionSplitProps } from '../../utils/SectionProps';
-import SectionHeader from './partials/SectionHeader';
+import SectionHeader2 from './partials/SectionHeader2';
 import Image from '../elements/Image';
+import Button from '../elements/Button';
+import ButtonGroup from '../elements/ButtonGroup';
+import { useState } from 'react';
+import Modal from '../elements/Modal';
+import ContactForm from '../elements/ContactUs';
 
 const propTypes = {
   ...SectionSplitProps.types
@@ -11,6 +16,10 @@ const propTypes = {
 const defaultProps = {
   ...SectionSplitProps.defaults
 }
+
+const innerClasses = classNames(
+'hero-inner section-inner',
+);
 
 const FeaturesSplit = ({
   className,
@@ -26,6 +35,30 @@ const FeaturesSplit = ({
   imageFill,
   ...props
 }) => {
+
+  const [videoModalActive, setVideomodalactive] = useState(false);
+  const [pictureActive, setPictureActive] = useState(false);
+  const showContactForm = useState(false)
+
+  const openModal = (e) => {
+    e.preventDefault();
+    setVideomodalactive(true);
+  }
+
+  const openPicture = (e) => {
+    e.preventDefault();
+    setPictureActive(true);
+  }
+
+  const closeModal = (e) => {
+    e.preventDefault();
+    setVideomodalactive(false);
+  }
+
+  const closePicture = (e) => {
+    e.preventDefault();
+    setPictureActive(false);
+  }
 
   const outerClasses = classNames(
     'features-split section',
@@ -49,17 +82,6 @@ const FeaturesSplit = ({
     alignTop && 'align-top'
   );
 
-  const sectionHeader = {
-    title: 'Hot investment opportunities at your fingertips',
-    paragraph: '',
-  };
-
-    const sectionHeader2 = {
-      title: 'Empower the people with cutting edge analytics',
-      paragraph: '',
-    };
-
-
   return (
     <section
       {...props}
@@ -67,22 +89,25 @@ const FeaturesSplit = ({
     >
       <div className="container">
         <div className={innerClasses}>
-          <SectionHeader data={sectionHeader} className="center-content" />
-          <SectionHeader data={sectionHeader2} className="center-content" />
           <div className={splitClasses}>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Economics
+              <div className="split-item-content reveal-from-left" data-reveal-container=".split-item">
+                <div className="text-xxs text-color-cyan center-content-mobile fw-600 tt-u mb-8 bold" style={{fontWeight: 'bold'}}>
+                  Beautiful and Insightful Analytics
                   </div>
-                <h3 className="mt-0 mb-12" style={{color:'cyan'}}>
-                  Financial Expertise
+                <h3 className="mt-0 mb-12 center-content-mobile " style={{color:'black'}}>
+                  All in one 🔥
                   </h3>
-                <p className="m-0">
-                  His expertise in trading, asset management, and risk analysis helps him understand your needs in a concrete manner. The solutions he delivers leverage Macro Economics expertise, quantitative methods, and latest available technologies. Aness also enjoys building and running trading strategies using prop funds, feel free to reach out for performance and risk related metrics.
+                <p className="m-0 " style={{color:'grey',fontSize:"min(21px,max(16px,1vw))", fontWeight: 'normal'}}>
+                  <ul>
+                  <li> Financial and fundamental data, macroeconomics, earnings calendar and company prospects </li>
+                  <li> Discuss investment ideas, share your ideas with the community, see what's trending </li>
+                   <li> Educate yourself and others through our educational materials and influencers' channels</li>
+                   </ul>
                   </p>
               </div>
+
               <div className={
                 classNames(
                   'split-item-image center-content-mobile reveal-from-bottom',
@@ -90,7 +115,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/analytics.png')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -98,15 +123,19 @@ const FeaturesSplit = ({
             </div>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Data Science
+              <div className="split-item-content reveal-from-right" data-reveal-container=".split-item">
+                <div className="text-xxs text-color-cyan center-content-mobile fw-600 tt-u mb-8" style={{fontWeight: 'bold'}}>
+                  Hot investment opportunities
                   </div>
-                <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                <h3 className="mt-0 mb-12 center-content-mobile" style={{color:'black'}}>
+                  Find the one 💸
                   </h3>
-                <p className="m-0">
-                  Aness brings business actionable insights leveraging metrics and analytics based on both structured and unstructured data. He has a strong expertise in Statistical Methods, Data Science, with concrete projects and experience in both the Financial and the adTech eMarketing business.
+                <p className="m-0 " style={{color:'grey',fontSize:"min(21px,max(16px,1vw))", fontWeight: 'normal'}}>
+                  <ul>
+                  <li>Hot investments are accessible via our screener: leverage our Social Sentiment and Financial metrics to easily shop and navigate through a huge universe of stocks and cryptos</li>
+                  <li>Stay on top of the hottest trends: screen on market news and insights</li>
+                  <li>Find the next TSLA, the next GME, the next Cryptocurrency, start the journey</li>
+                  </ul>
                   </p>
               </div>
               <div className={
@@ -116,7 +145,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/screening.png')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -124,15 +153,19 @@ const FeaturesSplit = ({
             </div>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Software Development
+              <div className="split-item-content reveal-from-left" data-reveal-container=".split-item">
+                <div className="text-xxs text-color-cyan fw-600 tt-u mb-8 center-content-mobile" style={{fontWeight: 'bold'}}>
+                  Video Oriented Social Platform
                   </div>
-                <h3 className="mt-0 mb-12">
-                  Seamless workflow
+                <h3 className="mt-0 mb-12 center-content-mobile" style={{color:'black'}}>
+                  Be the one 🚀
                   </h3>
-                <p className="m-0">
-                  Aness has a strong interest in using latest cutting hedge technologies to provide elegant analytics and solutions to your needs. He has deployed back end data bases on Google Cloud Platform, and linked the front fo the back end using Django. Aness has also experience in building front end applications using React and Flutter for Web and App development. He leveraged Machine Learning models and schedulers to run computations and cache the output metrics relevant for the front end user and/or model.
+                <p className="m-0 " style={{color:'grey',fontSize:"min(21px,max(16px,1vw))", fontWeight: 'normal'}}>
+                  <ul>
+                  <li> Discuss investment ideas, share your activity and see what people are trading</li>
+                  <li> Follow and chat with your friends, share your findings and insights</li>
+                  <li> Educate yourself and others through our educational material and influencers' channels </li>
+                  </ul>
                   </p>
               </div>
               <div className={
@@ -142,16 +175,32 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/social.png')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
               </div>
             </div>
-
           </div>
         </div>
       </div>
+                           <div className="container-sm">
+
+      <Modal
+        id="video-modal"
+        show={videoModalActive}
+        handleClose={closeModal}
+        form=<ContactForm/>
+        videoTag="iframe" />
+      <Modal
+        id="video-modal"
+        show={pictureActive}
+        handleClose={closePicture}
+        form=<ContactForm/>
+        videoTag="iframe" />
+        </div>
+
+
     </section>
   );
 }
