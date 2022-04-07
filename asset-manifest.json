@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.bcbcb7f4.css",
-    "main.js": "/static/js/main.bf4e40aa.js",
+    "main.js": "/static/js/main.e7187111.js",
     "static/media/portfolio.png": "/static/media/portfolio.c10bd3f1208ace73f158.png",
+    "static/media/third.png": "/static/media/third.a3b5df721249e65f7d58.png",
     "static/media/social.png": "/static/media/social.e9f8c9054768f5e9d62a.png",
     "static/media/attribution.jpg": "/static/media/attribution.5c54c688c520f13eb3b1.jpg",
     "static/media/userprofile.png": "/static/media/userprofile.4aa6dd478cab7c935a18.png",
@@ -10,7 +11,6 @@
     "static/media/nvdia.png": "/static/media/nvdia.81eebcacb28417bbf84f.png",
     "static/media/gamestop.png": "/static/media/gamestop.b07fdb25226de06cdfd0.png",
     "static/media/second.png": "/static/media/second.433470aad288e317e2a2.png",
-    "static/media/third.png": "/static/media/third.a0772f3e4416d51f9f83.png",
     "static/media/roadmap.png": "/static/media/roadmap.477e532dce2866a4c81a.png",
     "static/media/first.png": "/static/media/first.d674d9e518789806bfd8.png",
     "static/media/stocker.png": "/static/media/stocker.a4d78e833394015ceee5.png",
@@ -22,10 +22,10 @@
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
     "index.html": "/index.html",
     "main.bcbcb7f4.css.map": "/static/css/main.bcbcb7f4.css.map",
-    "main.bf4e40aa.js.map": "/static/js/main.bf4e40aa.js.map"
+    "main.e7187111.js.map": "/static/js/main.e7187111.js.map"
   },
   "entrypoints": [
     "static/css/main.bcbcb7f4.css",
-    "static/js/main.bf4e40aa.js"
+    "static/js/main.e7187111.js"
   ]
 }
