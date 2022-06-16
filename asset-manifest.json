@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.017efc40.css",
-    "main.js": "/static/js/main.a7c6e3bb.js",
+    "main.js": "/static/js/main.1d0e0d5e.js",
     "static/media/portfolio.png": "/static/media/portfolio.c10bd3f1208ace73f158.png",
     "static/media/social.png": "/static/media/social.e9f8c9054768f5e9d62a.png",
     "static/media/attribution.jpg": "/static/media/attribution.5c54c688c520f13eb3b1.jpg",
@@ -13,7 +13,6 @@
     "static/media/roadmap.png": "/static/media/roadmap.477e532dce2866a4c81a.png",
     "static/media/second.png": "/static/media/second.c4efd9fb870b38520249.png",
     "static/media/coins.png": "/static/media/coins.029320da79d0f0d47549.png",
-    "static/media/sun.jpg": "/static/media/sun.2d877f16bc73d69fe1a0.jpg",
     "static/media/third.png": "/static/media/third.d850ed85f1a59fd187e4.png",
     "static/media/stocker.png": "/static/media/stocker.6122a7393f2689247e67.png",
     "static/media/banner.PNG": "/static/media/banner.61f939f6be1929b0cf30.PNG",
@@ -22,10 +21,10 @@
     "index.html": "/index.html",
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
     "main.017efc40.css.map": "/static/css/main.017efc40.css.map",
-    "main.a7c6e3bb.js.map": "/static/js/main.a7c6e3bb.js.map"
+    "main.1d0e0d5e.js.map": "/static/js/main.1d0e0d5e.js.map"
   },
   "entrypoints": [
     "static/css/main.017efc40.css",
-    "static/js/main.a7c6e3bb.js"
+    "static/js/main.1d0e0d5e.js"
   ]
 }
