@@ -1,30 +1,34 @@
 {
   "files": {
     "main.css": "/static/css/main.017efc40.css",
-    "main.js": "/static/js/main.ba4b3a11.js",
+    "main.js": "/static/js/main.67ce6ce8.js",
+    "static/media/buythedip.png": "/static/media/buythedip.39ae9a27ad7280281a92.png",
+    "static/media/second.png": "/static/media/second.9a9bf574df65f600cb54.png",
     "static/media/portfolio.png": "/static/media/portfolio.c10bd3f1208ace73f158.png",
+    "static/media/first.png": "/static/media/first.b04e4a4e191aa98b5d1e.png",
+    "static/media/third.png": "/static/media/third.ed597682fa66dd81f8bc.png",
     "static/media/social.png": "/static/media/social.e9f8c9054768f5e9d62a.png",
     "static/media/attribution.jpg": "/static/media/attribution.5c54c688c520f13eb3b1.jpg",
     "static/media/userprofile.png": "/static/media/userprofile.4aa6dd478cab7c935a18.png",
     "static/media/screener.png": "/static/media/screener.53a218c4f70398dc7a20.png",
     "static/media/nvdia.png": "/static/media/nvdia.81eebcacb28417bbf84f.png",
+    "static/media/tradinggame.png": "/static/media/tradinggame.4d058794432a2040a0b2.png",
+    "static/media/beststocktotrade.png": "/static/media/beststocktotrade.05fcad08854efdfd7321.png",
     "static/media/gamestop.png": "/static/media/gamestop.b07fdb25226de06cdfd0.png",
-    "static/media/first.png": "/static/media/first.04b978d24f18000a6587.png",
     "static/media/roadmap.png": "/static/media/roadmap.477e532dce2866a4c81a.png",
-    "static/media/second.png": "/static/media/second.c4efd9fb870b38520249.png",
     "static/media/coins.png": "/static/media/coins.029320da79d0f0d47549.png",
-    "static/media/third.png": "/static/media/third.d850ed85f1a59fd187e4.png",
-    "static/media/stocker.png": "/static/media/stocker.6122a7393f2689247e67.png",
+    "static/media/stocker.png": "/static/media/stocker.d5fab721744cd18fbefc.png",
     "static/media/banner.PNG": "/static/media/banner.61f939f6be1929b0cf30.PNG",
     "static/media/qrcode.png": "/static/media/qrcode.39f643bd509dce6b3f87.png",
+    "static/media/buymecoffe.png": "/static/media/buymecoffe.07ad707860114a82b530.png",
     "static/media/googledownloadlogo.png": "/static/media/googledownloadlogo.194cc0b884101432aa18.png",
     "index.html": "/index.html",
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
     "main.017efc40.css.map": "/static/css/main.017efc40.css.map",
-    "main.ba4b3a11.js.map": "/static/js/main.ba4b3a11.js.map"
+    "main.67ce6ce8.js.map": "/static/js/main.67ce6ce8.js.map"
   },
   "entrypoints": [
     "static/css/main.017efc40.css",
-    "static/js/main.ba4b3a11.js"
+    "static/js/main.67ce6ce8.js"
   ]
 }
