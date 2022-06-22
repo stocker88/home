@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.017efc40.css",
-    "main.js": "/static/js/main.354948a4.js",
+    "main.js": "/static/js/main.b350d4b7.js",
     "static/media/tradinggame.png": "/static/media/tradinggame.72a308b40f889a8144fb.png",
     "static/media/buythedip.png": "/static/media/buythedip.f36613f7fc20412cc562.png",
     "static/media/second.png": "/static/media/second.9a9bf574df65f600cb54.png",
@@ -25,10 +25,10 @@
     "index.html": "/index.html",
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
     "main.017efc40.css.map": "/static/css/main.017efc40.css.map",
-    "main.354948a4.js.map": "/static/js/main.354948a4.js.map"
+    "main.b350d4b7.js.map": "/static/js/main.b350d4b7.js.map"
   },
   "entrypoints": [
     "static/css/main.017efc40.css",
-    "static/js/main.354948a4.js"
+    "static/js/main.b350d4b7.js"
   ]
 }
