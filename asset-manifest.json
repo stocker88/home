@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.017efc40.css",
-    "main.js": "/static/js/main.c4177749.js",
+    "main.js": "/static/js/main.df6ed19b.js",
     "static/media/buythedip.png": "/static/media/buythedip.edd6f6d2f8c35ca64f92.png",
     "static/media/second.png": "/static/media/second.8a89faa9ab23c331a640.png",
     "static/media/portfolio.png": "/static/media/portfolio.c10bd3f1208ace73f158.png",
@@ -24,10 +24,10 @@
     "index.html": "/index.html",
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
     "main.017efc40.css.map": "/static/css/main.017efc40.css.map",
-    "main.c4177749.js.map": "/static/js/main.c4177749.js.map"
+    "main.df6ed19b.js.map": "/static/js/main.df6ed19b.js.map"
   },
   "entrypoints": [
     "static/css/main.017efc40.css",
-    "static/js/main.c4177749.js"
+    "static/js/main.df6ed19b.js"
   ]
 }
