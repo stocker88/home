@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.017efc40.css",
-    "main.js": "/static/js/main.767efb65.js",
+    "main.js": "/static/js/main.b0b6d668.js",
     "static/media/buythedip.png": "/static/media/buythedip.edd6f6d2f8c35ca64f92.png",
     "static/media/second.png": "/static/media/second.8a89faa9ab23c331a640.png",
     "static/media/third.png": "/static/media/third.b6df1e35ba3ee96687f8.png",
@@ -14,7 +14,7 @@
     "static/media/portfolio.png": "/static/media/portfolio.b026cf03ef9ead69cc4f.png",
     "static/media/gamestop.png": "/static/media/gamestop.4952063f086d59de2330.png",
     "static/media/beststocktotrade.png": "/static/media/beststocktotrade.813ef15488f48eda1ea7.png",
-    "static/media/educational.png": "/static/media/educational.e1151c4771f7fd15962d.png",
+    "static/media/educational.png": "/static/media/educational.0466525c1f0dfb250c59.png",
     "static/media/social.png": "/static/media/social.72d75be0b8d1132d0a3b.png",
     "static/media/screener.png": "/static/media/screener.a6ee9ac7feb4e74ae29d.png",
     "static/media/roadmap.png": "/static/media/roadmap.477e532dce2866a4c81a.png",
@@ -26,10 +26,10 @@
     "index.html": "/index.html",
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
     "main.017efc40.css.map": "/static/css/main.017efc40.css.map",
-    "main.767efb65.js.map": "/static/js/main.767efb65.js.map"
+    "main.b0b6d668.js.map": "/static/js/main.b0b6d668.js.map"
   },
   "entrypoints": [
     "static/css/main.017efc40.css",
-    "static/js/main.767efb65.js"
+    "static/js/main.b0b6d668.js"
   ]
 }
