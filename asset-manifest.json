@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.017efc40.css",
-    "main.js": "/static/js/main.df6ed19b.js",
+    "main.js": "/static/js/main.2477668a.js",
     "static/media/buythedip.png": "/static/media/buythedip.edd6f6d2f8c35ca64f92.png",
     "static/media/second.png": "/static/media/second.8a89faa9ab23c331a640.png",
-    "static/media/portfolio.png": "/static/media/portfolio.c10bd3f1208ace73f158.png",
     "static/media/third.png": "/static/media/third.b6df1e35ba3ee96687f8.png",
     "static/media/first.png": "/static/media/first.e829f7eb326864c5feb8.png",
-    "static/media/social.png": "/static/media/social.e9f8c9054768f5e9d62a.png",
     "static/media/attribution.jpg": "/static/media/attribution.5c54c688c520f13eb3b1.jpg",
     "static/media/tradinggame.png": "/static/media/tradinggame.6c1a6171ab64b4ba89fc.png",
     "static/media/userprofile.png": "/static/media/userprofile.4aa6dd478cab7c935a18.png",
-    "static/media/screener.png": "/static/media/screener.53a218c4f70398dc7a20.png",
-    "static/media/nvdia.png": "/static/media/nvdia.81eebcacb28417bbf84f.png",
+    "static/media/nvdia.png": "/static/media/nvdia.92f047b8156bd73e4fc9.png",
+    "static/media/portfolio.png": "/static/media/portfolio.b026cf03ef9ead69cc4f.png",
+    "static/media/gamestop.png": "/static/media/gamestop.4952063f086d59de2330.png",
+    "static/media/FILTER.png": "/static/media/FILTER.0696f584e28b7b510338.png",
     "static/media/beststocktotrade.png": "/static/media/beststocktotrade.813ef15488f48eda1ea7.png",
-    "static/media/gamestop.png": "/static/media/gamestop.b07fdb25226de06cdfd0.png",
+    "static/media/educational.png": "/static/media/educational.e1151c4771f7fd15962d.png",
+    "static/media/social.png": "/static/media/social.72d75be0b8d1132d0a3b.png",
+    "static/media/screener.png": "/static/media/screener.a6ee9ac7feb4e74ae29d.png",
     "static/media/roadmap.png": "/static/media/roadmap.477e532dce2866a4c81a.png",
     "static/media/coins.png": "/static/media/coins.029320da79d0f0d47549.png",
     "static/media/stocker.png": "/static/media/stocker.d5fab721744cd18fbefc.png",
@@ -24,10 +26,10 @@
     "index.html": "/index.html",
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
     "main.017efc40.css.map": "/static/css/main.017efc40.css.map",
-    "main.df6ed19b.js.map": "/static/js/main.df6ed19b.js.map"
+    "main.2477668a.js.map": "/static/js/main.2477668a.js.map"
   },
   "entrypoints": [
     "static/css/main.017efc40.css",
-    "static/js/main.df6ed19b.js"
+    "static/js/main.2477668a.js"
   ]
 }
