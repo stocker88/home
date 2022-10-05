@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.017efc40.css",
-    "main.js": "/static/js/main.8795d3a2.js",
+    "main.js": "/static/js/main.1c01d71c.js",
     "static/media/buythedip.png": "/static/media/buythedip.edd6f6d2f8c35ca64f92.png",
     "static/media/second.png": "/static/media/second.8a89faa9ab23c331a640.png",
     "static/media/third.png": "/static/media/third.b6df1e35ba3ee96687f8.png",
@@ -14,22 +14,24 @@
     "static/media/portfolio.png": "/static/media/portfolio.b026cf03ef9ead69cc4f.png",
     "static/media/gamestop.png": "/static/media/gamestop.4952063f086d59de2330.png",
     "static/media/beststocktotrade.png": "/static/media/beststocktotrade.813ef15488f48eda1ea7.png",
-    "static/media/educational.png": "/static/media/educational.0466525c1f0dfb250c59.png",
+    "static/media/tslavsrace.png": "/static/media/tslavsrace.2cd7df136dd72d4776d4.png",
     "static/media/social.png": "/static/media/social.72d75be0b8d1132d0a3b.png",
+    "static/media/twtrvsmeta.png": "/static/media/twtrvsmeta.01a770a8f799a22a6afe.png",
     "static/media/screener.png": "/static/media/screener.a6ee9ac7feb4e74ae29d.png",
+    "static/media/educational.png": "/static/media/educational.82ea3706cc9d591a359e.png",
     "static/media/roadmap.png": "/static/media/roadmap.477e532dce2866a4c81a.png",
     "static/media/coins.png": "/static/media/coins.029320da79d0f0d47549.png",
-    "static/media/stocker.png": "/static/media/stocker.d5fab721744cd18fbefc.png",
+    "static/media/stocker.png": "/static/media/stocker.f81c1c6d891a79c17cd5.png",
     "static/media/banner.PNG": "/static/media/banner.61f939f6be1929b0cf30.PNG",
     "static/media/qrcode.png": "/static/media/qrcode.39f643bd509dce6b3f87.png",
     "static/media/googledownloadlogo.png": "/static/media/googledownloadlogo.194cc0b884101432aa18.png",
     "index.html": "/index.html",
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
     "main.017efc40.css.map": "/static/css/main.017efc40.css.map",
-    "main.8795d3a2.js.map": "/static/js/main.8795d3a2.js.map"
+    "main.1c01d71c.js.map": "/static/js/main.1c01d71c.js.map"
   },
   "entrypoints": [
     "static/css/main.017efc40.css",
-    "static/js/main.8795d3a2.js"
+    "static/js/main.1c01d71c.js"
   ]
 }
