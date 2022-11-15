@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.017efc40.css",
-    "main.js": "/static/js/main.a4468785.js",
+    "main.css": "/static/css/main.1a601feb.css",
+    "main.js": "/static/js/main.4def0706.js",
     "static/media/buythedip.png": "/static/media/buythedip.edd6f6d2f8c35ca64f92.png",
     "static/media/second.png": "/static/media/second.8a89faa9ab23c331a640.png",
     "static/media/third.png": "/static/media/third.b6df1e35ba3ee96687f8.png",
@@ -27,11 +27,11 @@
     "static/media/googledownloadlogo.png": "/static/media/googledownloadlogo.194cc0b884101432aa18.png",
     "index.html": "/index.html",
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
-    "main.017efc40.css.map": "/static/css/main.017efc40.css.map",
-    "main.a4468785.js.map": "/static/js/main.a4468785.js.map"
+    "main.1a601feb.css.map": "/static/css/main.1a601feb.css.map",
+    "main.4def0706.js.map": "/static/js/main.4def0706.js.map"
   },
   "entrypoints": [
-    "static/css/main.017efc40.css",
-    "static/js/main.a4468785.js"
+    "static/css/main.1a601feb.css",
+    "static/js/main.4def0706.js"
   ]
 }
