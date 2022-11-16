@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1a601feb.css",
-    "main.js": "/static/js/main.396556cd.js",
+    "main.js": "/static/js/main.c68ae5df.js",
     "static/media/buythedip.png": "/static/media/buythedip.edd6f6d2f8c35ca64f92.png",
     "static/media/second.png": "/static/media/second.8a89faa9ab23c331a640.png",
     "static/media/third.png": "/static/media/third.b6df1e35ba3ee96687f8.png",
@@ -10,7 +10,6 @@
     "static/media/attribution.jpg": "/static/media/attribution.5c54c688c520f13eb3b1.jpg",
     "static/media/tradinggame.png": "/static/media/tradinggame.6c1a6171ab64b4ba89fc.png",
     "static/media/userprofile.png": "/static/media/userprofile.4aa6dd478cab7c935a18.png",
-    "static/media/nvdia.png": "/static/media/nvdia.92f047b8156bd73e4fc9.png",
     "static/media/portfolio.png": "/static/media/portfolio.b026cf03ef9ead69cc4f.png",
     "static/media/gamestop.png": "/static/media/gamestop.4952063f086d59de2330.png",
     "static/media/beststocktotrade.png": "/static/media/beststocktotrade.813ef15488f48eda1ea7.png",
@@ -28,10 +27,10 @@
     "index.html": "/index.html",
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
     "main.1a601feb.css.map": "/static/css/main.1a601feb.css.map",
-    "main.396556cd.js.map": "/static/js/main.396556cd.js.map"
+    "main.c68ae5df.js.map": "/static/js/main.c68ae5df.js.map"
   },
   "entrypoints": [
     "static/css/main.1a601feb.css",
-    "static/js/main.396556cd.js"
+    "static/js/main.c68ae5df.js"
   ]
 }
