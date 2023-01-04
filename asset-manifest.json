@@ -1,22 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.7e7ff7fb.css",
-    "main.js": "/static/js/main.31446537.js",
-    "static/media/buythedip.png": "/static/media/buythedip.edd6f6d2f8c35ca64f92.png",
-    "static/media/second.png": "/static/media/second.8a89faa9ab23c331a640.png",
-    "static/media/third.png": "/static/media/third.b6df1e35ba3ee96687f8.png",
-    "static/media/first.png": "/static/media/first.e829f7eb326864c5feb8.png",
+    "main.js": "/static/js/main.4afa69e5.js",
     "static/media/FILTER.png": "/static/media/FILTER.437318d1e99dc30a3be7.png",
     "static/media/attribution.jpg": "/static/media/attribution.5c54c688c520f13eb3b1.jpg",
-    "static/media/tradinggame.png": "/static/media/tradinggame.6c1a6171ab64b4ba89fc.png",
-    "static/media/userprofile.png": "/static/media/userprofile.4aa6dd478cab7c935a18.png",
-    "static/media/portfolio.png": "/static/media/portfolio.b026cf03ef9ead69cc4f.png",
+    "static/media/tslavsrace.png": "/static/media/tslavsrace.43d869d82873780d6957.png",
+    "static/media/twtrvsmeta.png": "/static/media/twtrvsmeta.ab6dfeb01413880b4eb1.png",
     "static/media/gamestop.png": "/static/media/gamestop.4952063f086d59de2330.png",
-    "static/media/beststocktotrade.png": "/static/media/beststocktotrade.813ef15488f48eda1ea7.png",
-    "static/media/tslavsrace.png": "/static/media/tslavsrace.2cd7df136dd72d4776d4.png",
-    "static/media/social.png": "/static/media/social.72d75be0b8d1132d0a3b.png",
-    "static/media/twtrvsmeta.png": "/static/media/twtrvsmeta.a8b6af51b619d7c11aa2.png",
-    "static/media/screener.png": "/static/media/screener.a6ee9ac7feb4e74ae29d.png",
+    "static/media/portfolio.png": "/static/media/portfolio.05781d06d304777fc68b.png",
     "static/media/educational.png": "/static/media/educational.82ea3706cc9d591a359e.png",
     "static/media/roadmap.png": "/static/media/roadmap.477e532dce2866a4c81a.png",
     "static/media/coins.png": "/static/media/coins.029320da79d0f0d47549.png",
@@ -27,10 +18,10 @@
     "index.html": "/index.html",
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
     "main.7e7ff7fb.css.map": "/static/css/main.7e7ff7fb.css.map",
-    "main.31446537.js.map": "/static/js/main.31446537.js.map"
+    "main.4afa69e5.js.map": "/static/js/main.4afa69e5.js.map"
   },
   "entrypoints": [
     "static/css/main.7e7ff7fb.css",
-    "static/js/main.31446537.js"
+    "static/js/main.4afa69e5.js"
   ]
 }
