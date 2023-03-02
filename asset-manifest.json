@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7e7ff7fb.css",
-    "main.js": "/static/js/main.1a2b4caa.js",
+    "main.js": "/static/js/main.0bdf8d4b.js",
     "static/media/attribution.jpg": "/static/media/attribution.5c54c688c520f13eb3b1.jpg",
     "static/media/tslavsrace.png": "/static/media/tslavsrace.43d869d82873780d6957.png",
     "static/media/poker.png": "/static/media/poker.3df76f248405fd3be731.png",
@@ -16,10 +16,10 @@
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
     "index.html": "/index.html",
     "main.7e7ff7fb.css.map": "/static/css/main.7e7ff7fb.css.map",
-    "main.1a2b4caa.js.map": "/static/js/main.1a2b4caa.js.map"
+    "main.0bdf8d4b.js.map": "/static/js/main.0bdf8d4b.js.map"
   },
   "entrypoints": [
     "static/css/main.7e7ff7fb.css",
-    "static/js/main.1a2b4caa.js"
+    "static/js/main.0bdf8d4b.js"
   ]
 }
