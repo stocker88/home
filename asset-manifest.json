@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.099d992e.css",
-    "main.js": "/static/js/main.734ed78f.js",
+    "main.js": "/static/js/main.6741188a.js",
     "static/media/attribution.jpg": "/static/media/attribution.900e574522b408c62a36.jpg",
     "static/media/chatgpt.png": "/static/media/chatgpt.c3fdb432d4277b70e97d.png",
     "static/media/educational.png": "/static/media/educational.7a4b19079d9bd9642a5c.png",
@@ -11,13 +11,13 @@
     "static/media/banner.PNG": "/static/media/banner.61f939f6be1929b0cf30.PNG",
     "static/media/qrcode.png": "/static/media/qrcode.39f643bd509dce6b3f87.png",
     "static/media/googledownloadlogo.png": "/static/media/googledownloadlogo.194cc0b884101432aa18.png",
-    "index.html": "/index.html",
     "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
+    "index.html": "/index.html",
     "main.099d992e.css.map": "/static/css/main.099d992e.css.map",
-    "main.734ed78f.js.map": "/static/js/main.734ed78f.js.map"
+    "main.6741188a.js.map": "/static/js/main.6741188a.js.map"
   },
   "entrypoints": [
     "static/css/main.099d992e.css",
-    "static/js/main.734ed78f.js"
+    "static/js/main.6741188a.js"
   ]
 }
