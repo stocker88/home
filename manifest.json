@@ -1,6 +1,6 @@
 {
-  "short_name": "Stocker",
-  "name": "Stocker",
+  "short_name": "HelloStocker",
+  "name": "HelloStocker",
   "icons": [
     {
       "src": "favicon.ico",
